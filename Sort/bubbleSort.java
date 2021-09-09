@@ -1,6 +1,6 @@
 public class HelloWorld{
     
-    
+    // Time complexity in worst case O(n^2)
      public static void bubble(int[] list){
         int len = list.length;
         for (int i = 0; i < len-1; i++){
