@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class bubbleSort{
     
     // Time complexity in worst case O(n^2)
      public static void bubble(int[] list){
